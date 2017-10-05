@@ -1,1 +1,3 @@
- dog.rb bird.rb
+def cat
+  puts "meow!"
+end
